@@ -1,0 +1,393 @@
+c:\users\lutil\documents\visual studio 2012\Projects\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].exe.config
+c:\users\lutil\documents\visual studio 2012\Projects\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].exe
+c:\users\lutil\documents\visual studio 2012\Projects\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].pdb
+c:\users\lutil\documents\visual studio 2012\Projects\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].xml
+c:\users\lutil\documents\visual studio 2012\Projects\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmMain.resources
+c:\users\lutil\documents\visual studio 2012\Projects\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmProductMaintenance.resources
+c:\users\lutil\documents\visual studio 2012\Projects\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.Resources.resources
+c:\users\lutil\documents\visual studio 2012\Projects\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].vbproj.GenerateResource.Cache
+c:\users\lutil\documents\visual studio 2012\Projects\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].exe
+c:\users\lutil\documents\visual studio 2012\Projects\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].xml
+c:\users\lutil\documents\visual studio 2012\Projects\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].pdb
+F:\CIS232\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].exe.config
+F:\CIS232\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].exe
+F:\CIS232\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].xml
+F:\CIS232\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].pdb
+F:\CIS232\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].exe
+F:\CIS232\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].pdb
+F:\CIS232\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].xml
+F:\CIS232\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmMain.resources
+F:\CIS232\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmProductMaintenance.resources
+F:\CIS232\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.Resources.resources
+F:\CIS232\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].vbproj.GenerateResource.Cache
+F:\CIS232\2A\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].exe.config
+F:\CIS232\2A\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].exe
+F:\CIS232\2A\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].xml
+F:\CIS232\2A\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].pdb
+F:\CIS232\2A - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].exe.config
+F:\CIS232\2A - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].exe
+F:\CIS232\2A - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].xml
+F:\CIS232\2A - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].pdb
+F:\CIS232\2A - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].exe
+F:\CIS232\2A - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].pdb
+F:\CIS232\2A - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].xml
+F:\CIS232\2A - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmCustomerMaintenance.resources
+F:\CIS232\2A - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmMain.resources
+F:\CIS232\2A - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmProductMaintenance.resources
+F:\CIS232\2A - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.Resources.resources
+F:\CIS232\2A - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].vbproj.GenerateResource.Cache
+F:\CIS232\2B - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].exe.config
+F:\CIS232\2B - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].exe
+F:\CIS232\2B - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].xml
+F:\CIS232\2B - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].pdb
+F:\CIS232\2B - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].exe
+F:\CIS232\2B - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].pdb
+F:\CIS232\2B - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].xml
+F:\CIS232\2B - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmCustomerMaintenance.resources
+F:\CIS232\2B - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmMain.resources
+F:\CIS232\2B - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmProductIncidents.resources
+F:\CIS232\2B - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmProductMaintenance.resources
+F:\CIS232\2B - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.Resources.resources
+F:\CIS232\2B - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].vbproj.GenerateResource.Cache
+F:\CIS232\2B - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmCustomer.resources
+F:\CIS232\2B - Copy - Copy (2)\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].exe.config
+F:\CIS232\2B - Copy - Copy (2)\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].exe
+F:\CIS232\2B - Copy - Copy (2)\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].xml
+F:\CIS232\2B - Copy - Copy (2)\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].pdb
+F:\CIS232\2B - Copy - Copy (2)\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].exe
+F:\CIS232\2B - Copy - Copy (2)\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].pdb
+F:\CIS232\2B - Copy - Copy (2)\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].xml
+F:\CIS232\2B - Copy - Copy (2)\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmCustomer.resources
+F:\CIS232\2B - Copy - Copy (2)\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmCustomerMaintenance.resources
+F:\CIS232\2B - Copy - Copy (2)\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmMain.resources
+F:\CIS232\2B - Copy - Copy (2)\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmProductIncidents.resources
+F:\CIS232\2B - Copy - Copy (2)\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmProductMaintenance.resources
+F:\CIS232\2B - Copy - Copy (2)\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.Resources.resources
+F:\CIS232\2B - Copy - Copy (2)\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].vbproj.GenerateResource.Cache
+F:\CIS232\2C\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].exe.config
+F:\CIS232\2C\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].exe
+F:\CIS232\2C\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].xml
+F:\CIS232\2C\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].pdb
+F:\CIS232\2C\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].exe
+F:\CIS232\2C\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].pdb
+F:\CIS232\2C\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].xml
+F:\CIS232\2C\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmCustomer.resources
+F:\CIS232\2C\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmCustomerMaintenance.resources
+F:\CIS232\2C\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmMain.resources
+F:\CIS232\2C\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmProductIncidents.resources
+F:\CIS232\2C\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmProductMaintenance.resources
+F:\CIS232\2C\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.Resources.resources
+F:\CIS232\2C\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].vbproj.GenerateResource.Cache
+F:\CIS232\2C - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].exe.config
+F:\CIS232\2C - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].exe
+F:\CIS232\2C - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].xml
+F:\CIS232\2C - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].pdb
+F:\CIS232\2C - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].exe
+F:\CIS232\2C - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].pdb
+F:\CIS232\2C - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].xml
+F:\CIS232\2C - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmCustomer.resources
+F:\CIS232\2C - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmCustomerMaintenance.resources
+F:\CIS232\2C - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmMain.resources
+F:\CIS232\2C - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmOpenIncidents.resources
+F:\CIS232\2C - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmProductIncidents.resources
+F:\CIS232\2C - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmProductMaintenance.resources
+F:\CIS232\2C - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.Resources.resources
+F:\CIS232\2C - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].vbproj.GenerateResource.Cache
+F:\CIS232\3A - Copy (2)\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].exe.config
+F:\CIS232\3A - Copy (2)\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].exe
+F:\CIS232\3A - Copy (2)\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].xml
+F:\CIS232\3A - Copy (2)\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].pdb
+F:\CIS232\3A - Copy (2)\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmCustomer.resources
+F:\CIS232\3A - Copy (2)\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmCustomerMaintenance.resources
+F:\CIS232\3A - Copy (2)\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmMain.resources
+F:\CIS232\3A - Copy (2)\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmOpenIncidents.resources
+F:\CIS232\3A - Copy (2)\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmProductIncidents.resources
+F:\CIS232\3A - Copy (2)\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmProductMaintenance.resources
+F:\CIS232\3A - Copy (2)\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.Resources.resources
+F:\CIS232\3A - Copy (2)\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].vbproj.GenerateResource.Cache
+F:\CIS232\3A - Copy (2)\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].exe
+F:\CIS232\3A - Copy (2)\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].pdb
+F:\CIS232\3A - Copy (2)\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].xml
+F:\CIS232\3A - Copy (2) - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].exe.config
+F:\CIS232\3A - Copy (2) - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].exe
+F:\CIS232\3A - Copy (2) - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].xml
+F:\CIS232\3A - Copy (2) - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].pdb
+F:\CIS232\3A - Copy (2) - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].exe
+F:\CIS232\3A - Copy (2) - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].pdb
+F:\CIS232\3A - Copy (2) - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].xml
+F:\CIS232\3A - Copy (2) - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmCustomer.resources
+F:\CIS232\3A - Copy (2) - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmCustomerMaintenance.resources
+F:\CIS232\3A - Copy (2) - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmMain.resources
+F:\CIS232\3A - Copy (2) - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmOpenIncidents.resources
+F:\CIS232\3A - Copy (2) - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmProductIncidents.resources
+F:\CIS232\3A - Copy (2) - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmProductMaintenance.resources
+F:\CIS232\3A - Copy (2) - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.Resources.resources
+F:\CIS232\3A - Copy (2) - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].vbproj.GenerateResource.Cache
+F:\CIS232\3A (corrected)\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].exe.config
+F:\CIS232\3A (corrected)\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].exe
+F:\CIS232\3A (corrected)\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].xml
+F:\CIS232\3A (corrected)\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].pdb
+F:\CIS232\3A (corrected)\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmCustomer.resources
+F:\CIS232\3A (corrected)\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmCustomerMaintenance.resources
+F:\CIS232\3A (corrected)\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmMain.resources
+F:\CIS232\3A (corrected)\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmOpenIncidents.resources
+F:\CIS232\3A (corrected)\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmProductIncidents.resources
+F:\CIS232\3A (corrected)\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmProductMaintenance.resources
+F:\CIS232\3A (corrected)\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.Resources.resources
+F:\CIS232\3A (corrected)\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].vbproj.GenerateResource.Cache
+F:\CIS232\3A (corrected)\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].exe
+F:\CIS232\3A (corrected)\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].pdb
+F:\CIS232\3A (corrected)\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].xml
+F:\CIS232\3A\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].exe.config
+F:\CIS232\3A\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].exe
+F:\CIS232\3A\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].xml
+F:\CIS232\3A\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].pdb
+F:\CIS232\3A\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].exe
+F:\CIS232\3A\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].pdb
+F:\CIS232\3A\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].xml
+F:\CIS232\3A\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmCustomer.resources
+F:\CIS232\3A\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmCustomerMaintenance.resources
+F:\CIS232\3A\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmMain.resources
+F:\CIS232\3A\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmOpenIncidents.resources
+F:\CIS232\3A\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmProductIncidents.resources
+F:\CIS232\3A\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmProductMaintenance.resources
+F:\CIS232\3A\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.Resources.resources
+F:\CIS232\3A\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].vbproj.GenerateResource.Cache
+F:\CIS232\3A - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].exe.config
+F:\CIS232\3A - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].exe
+F:\CIS232\3A - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].xml
+F:\CIS232\3A - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].pdb
+F:\CIS232\3A - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].exe
+F:\CIS232\3A - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].pdb
+F:\CIS232\3A - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].xml
+F:\CIS232\3A - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmCreateIncident.resources
+F:\CIS232\3A - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmCustomer.resources
+F:\CIS232\3A - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmCustomerMaintenance.resources
+F:\CIS232\3A - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmMain.resources
+F:\CIS232\3A - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmOpenIncidents.resources
+F:\CIS232\3A - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmProductIncidents.resources
+F:\CIS232\3A - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmProductMaintenance.resources
+F:\CIS232\3A - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.Resources.resources
+F:\CIS232\3A - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].vbproj.GenerateResource.Cache
+F:\CIS232\3B\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].exe.config
+F:\CIS232\3B\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].exe
+F:\CIS232\3B\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].xml
+F:\CIS232\3B\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].pdb
+F:\CIS232\3B\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].exe
+F:\CIS232\3B\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].pdb
+F:\CIS232\3B\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].xml
+F:\CIS232\3B\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmCreateIncident.resources
+F:\CIS232\3B\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmCustomer.resources
+F:\CIS232\3B\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmCustomerMaintenance.resources
+F:\CIS232\3B\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmMain.resources
+F:\CIS232\3B\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmOpenIncidents.resources
+F:\CIS232\3B\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmProductIncidents.resources
+F:\CIS232\3B\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmProductMaintenance.resources
+F:\CIS232\3B\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.Resources.resources
+F:\CIS232\3B\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].vbproj.GenerateResource.Cache
+F:\CIS232\3B Original\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].exe.config
+F:\CIS232\3B Original\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].exe
+F:\CIS232\3B Original\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].xml
+F:\CIS232\3B Original\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].pdb
+F:\CIS232\3B Original - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].exe.config
+F:\CIS232\3B Original - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].exe
+F:\CIS232\3B Original - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].xml
+F:\CIS232\3B Original - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].pdb
+F:\CIS232\3B Original - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmCreateIncident.resources
+F:\CIS232\3B Original - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmCustomer.resources
+F:\CIS232\3B Original - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmCustomerMaintenance.resources
+F:\CIS232\3B Original - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmMain.resources
+F:\CIS232\3B Original - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmOpenIncidents.resources
+F:\CIS232\3B Original - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmProductIncidents.resources
+F:\CIS232\3B Original - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmProductMaintenance.resources
+F:\CIS232\3B Original - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmUpdateIncident.resources
+F:\CIS232\3B Original - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.Resources.resources
+F:\CIS232\3B Original - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].vbproj.GenerateResource.Cache
+F:\CIS232\3B Original - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].exe
+F:\CIS232\3B Original - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].pdb
+F:\CIS232\3B Original - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].xml
+F:\CIS232\3B Original\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].exe
+F:\CIS232\3B Original\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].pdb
+F:\CIS232\3B Original\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].xml
+F:\CIS232\3B Original\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmCreateIncident.resources
+F:\CIS232\3B Original\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmCustomer.resources
+F:\CIS232\3B Original\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmCustomerMaintenance.resources
+F:\CIS232\3B Original\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmMain.resources
+F:\CIS232\3B Original\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmOpenIncidents.resources
+F:\CIS232\3B Original\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmProductIncidents.resources
+F:\CIS232\3B Original\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmProductMaintenance.resources
+F:\CIS232\3B Original\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmTechnicianIncidents.resources
+F:\CIS232\3B Original\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmUpdateIncident.resources
+F:\CIS232\3B Original\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.Resources.resources
+F:\CIS232\3B Original\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].vbproj.GenerateResource.Cache
+E:\CIS232\3B Original\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].exe.config
+E:\CIS232\3B Original\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].exe
+E:\CIS232\3B Original\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].xml
+E:\CIS232\3B Original\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].pdb
+C:\Users\lutil\Desktop\3B Original\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].exe.config
+C:\Users\lutil\Desktop\3B Original\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].exe
+C:\Users\lutil\Desktop\3B Original\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].xml
+C:\Users\lutil\Desktop\3B Original\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].pdb
+C:\Users\lutil\Desktop\3B Original\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmCreateIncident.resources
+C:\Users\lutil\Desktop\3B Original\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmCustomer.resources
+C:\Users\lutil\Desktop\3B Original\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmCustomerMaintenance.resources
+C:\Users\lutil\Desktop\3B Original\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmMain.resources
+C:\Users\lutil\Desktop\3B Original\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmOpenIncidents.resources
+C:\Users\lutil\Desktop\3B Original\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmProductIncidents.resources
+C:\Users\lutil\Desktop\3B Original\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmProductMaintenance.resources
+C:\Users\lutil\Desktop\3B Original\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmTechnicianIncidents.resources
+C:\Users\lutil\Desktop\3B Original\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmUpdateIncident.resources
+C:\Users\lutil\Desktop\3B Original\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.Resources.resources
+C:\Users\lutil\Desktop\3B Original\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].vbproj.GenerateResource.Cache
+C:\Users\lutil\Desktop\3B Original\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].vbprojResolveAssemblyReference.cache
+C:\Users\lutil\Desktop\3B Original\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].exe
+C:\Users\lutil\Desktop\3B Original\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].pdb
+C:\Users\lutil\Desktop\3B Original\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].xml
+C:\Users\lutil\Desktop\3B Original\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\TechSupportData.dll
+C:\Users\lutil\Desktop\3B Original\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\TechSupportData.pdb
+C:\Users\lutil\Desktop\3B Original\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\TechSupportData.xml
+C:\Users\lutil\Desktop\3D\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].exe.config
+C:\Users\lutil\Desktop\3D\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].exe
+C:\Users\lutil\Desktop\3D\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].xml
+C:\Users\lutil\Desktop\3D\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].pdb
+C:\Users\lutil\Desktop\3D\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].exe
+C:\Users\lutil\Desktop\3D\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].pdb
+C:\Users\lutil\Desktop\3D\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].xml
+C:\Users\lutil\Desktop\3D\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\TechSupportData.dll
+C:\Users\lutil\Desktop\3D\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\TechSupportData.pdb
+C:\Users\lutil\Desktop\3D\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\TechSupportData.xml
+C:\Users\lutil\Desktop\3D\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].vbprojResolveAssemblyReference.cache
+C:\Users\lutil\Desktop\3D\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmCreateIncident.resources
+C:\Users\lutil\Desktop\3D\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmCustomer.resources
+C:\Users\lutil\Desktop\3D\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmCustomerMaintenance.resources
+C:\Users\lutil\Desktop\3D\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmMain.resources
+C:\Users\lutil\Desktop\3D\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmOpenIncidents.resources
+C:\Users\lutil\Desktop\3D\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmProductIncidents.resources
+C:\Users\lutil\Desktop\3D\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmProductMaintenance.resources
+C:\Users\lutil\Desktop\3D\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmTechnicianIncidents.resources
+C:\Users\lutil\Desktop\3D\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmUpdateIncident.resources
+C:\Users\lutil\Desktop\3D\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.Resources.resources
+C:\Users\lutil\Desktop\3D\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].vbproj.GenerateResource.Cache
+F:\CIS232\3D folder\3D\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].exe.config
+F:\CIS232\3D folder\3D\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].exe
+F:\CIS232\3D folder\3D\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].xml
+F:\CIS232\3D folder\3D\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].pdb
+F:\CIS232\3D folder\3D\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].exe
+F:\CIS232\3D folder\3D\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].pdb
+F:\CIS232\3D folder\3D\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].xml
+F:\CIS232\3D folder\3D\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\TechSupportData.dll
+F:\CIS232\3D folder\3D\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\TechSupportData.pdb
+F:\CIS232\3D folder\3D\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\TechSupportData.xml
+F:\CIS232\3D folder\3D\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].vbprojResolveAssemblyReference.cache
+F:\CIS232\3D folder\3D\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmCreateIncident.resources
+F:\CIS232\3D folder\3D\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmCustomer.resources
+F:\CIS232\3D folder\3D\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmCustomerMaintenance.resources
+F:\CIS232\3D folder\3D\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmMain.resources
+F:\CIS232\3D folder\3D\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmMaintainRegistrations.resources
+F:\CIS232\3D folder\3D\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmOpenIncidents.resources
+F:\CIS232\3D folder\3D\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmProductIncidents.resources
+F:\CIS232\3D folder\3D\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmProductMaintenance.resources
+F:\CIS232\3D folder\3D\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmTechnicianIncidents.resources
+F:\CIS232\3D folder\3D\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmUpdateIncident.resources
+F:\CIS232\3D folder\3D\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.Resources.resources
+F:\CIS232\3D folder\3D\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].vbproj.GenerateResource.Cache
+F:\CIS232\3D folder\3D - Copy (2)\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].exe.config
+F:\CIS232\3D folder\3D - Copy (2)\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].exe
+F:\CIS232\3D folder\3D - Copy (2)\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].xml
+F:\CIS232\3D folder\3D - Copy (2)\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].pdb
+F:\CIS232\3D folder\3D - Copy (2) - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].exe.config
+F:\CIS232\3D folder\3D - Copy (2) - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].exe
+F:\CIS232\3D folder\3D - Copy (2) - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].xml
+F:\CIS232\3D folder\3D - Copy (2) - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].pdb
+F:\CIS232\3D folder\3D - Copy (2) - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].vbprojResolveAssemblyReference.cache
+F:\CIS232\3D folder\3D - Copy (2) - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmCreateIncident.resources
+F:\CIS232\3D folder\3D - Copy (2) - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmCustomer.resources
+F:\CIS232\3D folder\3D - Copy (2) - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmCustomerMaintenance.resources
+F:\CIS232\3D folder\3D - Copy (2) - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmMain.resources
+F:\CIS232\3D folder\3D - Copy (2) - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmMaintainRegistrations.resources
+F:\CIS232\3D folder\3D - Copy (2) - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmOpenIncidents.resources
+F:\CIS232\3D folder\3D - Copy (2) - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmProductIncidents.resources
+F:\CIS232\3D folder\3D - Copy (2) - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmProductMaintenance.resources
+F:\CIS232\3D folder\3D - Copy (2) - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmTechnicianIncidents.resources
+F:\CIS232\3D folder\3D - Copy (2) - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmUpdateIncident.resources
+F:\CIS232\3D folder\3D - Copy (2) - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.Resources.resources
+F:\CIS232\3D folder\3D - Copy (2) - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].vbproj.GenerateResource.Cache
+F:\CIS232\3D folder\3D - Copy (2) - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].exe
+F:\CIS232\3D folder\3D - Copy (2) - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].pdb
+F:\CIS232\3D folder\3D - Copy (2) - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].xml
+F:\CIS232\3D folder\3D - Copy (2) - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\TechSupportData.dll
+F:\CIS232\3D folder\3D - Copy (2) - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\TechSupportData.pdb
+F:\CIS232\3D folder\3D - Copy (2) - Copy\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\TechSupportData.xml
+F:\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].exe.config
+F:\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].exe
+F:\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].xml
+F:\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].pdb
+F:\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].exe
+F:\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].pdb
+F:\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].xml
+F:\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\TechSupportData.dll
+F:\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\TechSupportData.pdb
+F:\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\TechSupportData.xml
+F:\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].vbprojResolveAssemblyReference.cache
+F:\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmCreateIncident.resources
+F:\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmCustomer.resources
+F:\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmCustomerMaintenance.resources
+F:\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmMain.resources
+F:\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmMaintainRegistrations.resources
+F:\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmOpenIncidents.resources
+F:\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmProductIncidents.resources
+F:\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmProductMaintenance.resources
+F:\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmTechnicianIncidents.resources
+F:\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmUpdateIncident.resources
+F:\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.Resources.resources
+F:\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].vbproj.GenerateResource.Cache
+E:\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].exe.config
+E:\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].exe
+E:\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].xml
+E:\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].pdb
+E:\Merovingien\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].exe.config
+E:\Merovingien\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].exe
+E:\Merovingien\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].xml
+E:\Merovingien\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].pdb
+E:\Merovingien\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].exe
+E:\Merovingien\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].pdb
+E:\Merovingien\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].xml
+E:\Merovingien\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\TechSupportData.dll
+E:\Merovingien\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\TechSupportData.pdb
+E:\Merovingien\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\TechSupportData.xml
+E:\Merovingien\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].vbprojResolveAssemblyReference.cache
+E:\Merovingien\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmCreateIncident.resources
+E:\Merovingien\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmCustomer.resources
+E:\Merovingien\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmCustomerMaintenance.resources
+E:\Merovingien\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmMain.resources
+E:\Merovingien\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmMaintainRegistrations.resources
+E:\Merovingien\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmOpenIncidents.resources
+E:\Merovingien\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmProductIncidents.resources
+E:\Merovingien\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmProductMaintenance.resources
+E:\Merovingien\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmTechnicianIncidents.resources
+E:\Merovingien\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmUpdateIncident.resources
+E:\Merovingien\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.Resources.resources
+E:\Merovingien\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].vbproj.GenerateResource.Cache
+F:\git file\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].exe.config
+F:\git file\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].exe
+F:\git file\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].xml
+F:\git file\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].pdb
+F:\git file\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].exe
+F:\git file\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].pdb
+F:\git file\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\SportProSystem[Cedric L Mulumba].xml
+F:\git file\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\TechSupportData.dll
+F:\git file\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\TechSupportData.pdb
+F:\git file\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\bin\Debug\TechSupportData.xml
+F:\git file\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].vbprojResolveAssemblyReference.cache
+F:\git file\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmCreateIncident.resources
+F:\git file\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmCustomer.resources
+F:\git file\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmCustomerMaintenance.resources
+F:\git file\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmMain.resources
+F:\git file\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmMaintainRegistrations.resources
+F:\git file\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmOpenIncidents.resources
+F:\git file\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmProductIncidents.resources
+F:\git file\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmProductMaintenance.resources
+F:\git file\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmTechnicianIncidents.resources
+F:\git file\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.frmUpdateIncident.resources
+F:\git file\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem_Cedric_L_Mulumba_.Resources.resources
+F:\git file\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\SportProSystem[Cedric L Mulumba]\obj\Debug\SportProSystem[Cedric L Mulumba].vbproj.GenerateResource.Cache

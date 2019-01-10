@@ -1,0 +1,32 @@
+C:\Users\lutil\Desktop\3B Original\SportProSystem[Cedric L Mulumba]\TechSupportData\bin\Debug\TechSupportData.dll
+C:\Users\lutil\Desktop\3B Original\SportProSystem[Cedric L Mulumba]\TechSupportData\bin\Debug\TechSupportData.pdb
+C:\Users\lutil\Desktop\3B Original\SportProSystem[Cedric L Mulumba]\TechSupportData\bin\Debug\TechSupportData.xml
+C:\Users\lutil\Desktop\3B Original\SportProSystem[Cedric L Mulumba]\TechSupportData\obj\Debug\TechSupportData.Resources.resources
+C:\Users\lutil\Desktop\3B Original\SportProSystem[Cedric L Mulumba]\TechSupportData\obj\Debug\TechSupportData.vbproj.GenerateResource.Cache
+C:\Users\lutil\Desktop\3B Original\SportProSystem[Cedric L Mulumba]\TechSupportData\obj\Debug\TechSupportData.dll
+C:\Users\lutil\Desktop\3B Original\SportProSystem[Cedric L Mulumba]\TechSupportData\obj\Debug\TechSupportData.xml
+C:\Users\lutil\Desktop\3B Original\SportProSystem[Cedric L Mulumba]\TechSupportData\obj\Debug\TechSupportData.pdb
+F:\CIS232\3D folder\3D - Copy (2) - Copy\SportProSystem[Cedric L Mulumba]\TechSupportData\bin\Debug\TechSupportData.dll
+F:\CIS232\3D folder\3D - Copy (2) - Copy\SportProSystem[Cedric L Mulumba]\TechSupportData\bin\Debug\TechSupportData.pdb
+F:\CIS232\3D folder\3D - Copy (2) - Copy\SportProSystem[Cedric L Mulumba]\TechSupportData\bin\Debug\TechSupportData.xml
+F:\CIS232\3D folder\3D - Copy (2) - Copy\SportProSystem[Cedric L Mulumba]\TechSupportData\obj\Debug\TechSupportData.Resources.resources
+F:\CIS232\3D folder\3D - Copy (2) - Copy\SportProSystem[Cedric L Mulumba]\TechSupportData\obj\Debug\TechSupportData.vbproj.GenerateResource.Cache
+F:\CIS232\3D folder\3D - Copy (2) - Copy\SportProSystem[Cedric L Mulumba]\TechSupportData\obj\Debug\TechSupportData.dll
+F:\CIS232\3D folder\3D - Copy (2) - Copy\SportProSystem[Cedric L Mulumba]\TechSupportData\obj\Debug\TechSupportData.xml
+F:\CIS232\3D folder\3D - Copy (2) - Copy\SportProSystem[Cedric L Mulumba]\TechSupportData\obj\Debug\TechSupportData.pdb
+E:\Merovingien\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\TechSupportData\bin\Debug\TechSupportData.dll
+E:\Merovingien\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\TechSupportData\bin\Debug\TechSupportData.pdb
+E:\Merovingien\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\TechSupportData\bin\Debug\TechSupportData.xml
+E:\Merovingien\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\TechSupportData\obj\Debug\TechSupportData.Resources.resources
+E:\Merovingien\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\TechSupportData\obj\Debug\TechSupportData.vbproj.GenerateResource.Cache
+E:\Merovingien\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\TechSupportData\obj\Debug\TechSupportData.dll
+E:\Merovingien\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\TechSupportData\obj\Debug\TechSupportData.xml
+E:\Merovingien\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\TechSupportData\obj\Debug\TechSupportData.pdb
+F:\git file\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\TechSupportData\bin\Debug\TechSupportData.dll
+F:\git file\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\TechSupportData\bin\Debug\TechSupportData.pdb
+F:\git file\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\TechSupportData\bin\Debug\TechSupportData.xml
+F:\git file\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\TechSupportData\obj\Debug\TechSupportData.Resources.resources
+F:\git file\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\TechSupportData\obj\Debug\TechSupportData.vbproj.GenerateResource.Cache
+F:\git file\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\TechSupportData\obj\Debug\TechSupportData.dll
+F:\git file\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\TechSupportData\obj\Debug\TechSupportData.xml
+F:\git file\CIS232\3E folder\3E a\SportProSystem[Cedric L Mulumba]\TechSupportData\obj\Debug\TechSupportData.pdb
